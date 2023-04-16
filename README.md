@@ -1,2 +1,3 @@
-# web-password
+# [ABANDONED] web-password
+
 Online password storage
